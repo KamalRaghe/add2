@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.number{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.choice{
+    
+    background-color: navy;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+}
